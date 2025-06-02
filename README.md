@@ -52,7 +52,7 @@ The agent interacts with a Snake game environment and improves its performance o
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install
    ```
 
 3. **Train the agent:**
